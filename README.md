@@ -44,7 +44,7 @@ Execute o arquivo `index.html`
 </div>
 <br/><br/>
 <div align="center">
-    <img alt="Desktop" title="#Desktop" src="images/mock2.png" width="680px" />
+    <img alt="Desktop" title="#Desktop" src="images/mock2.jpg" width="680px" />
 </div>
 
 <br/><br/>
